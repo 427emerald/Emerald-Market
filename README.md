@@ -22,7 +22,7 @@ connection, Emerald Market will not work. Ethernet works with Emerald Market.
 Emerald Market only needs to be downloaded from the internet once! After that, if there is
 a new update for Emerald Market, it will be sent out through Emerald Market's Updater application,
 provided in the files when Emerald Market is first downloaded. Use the Updater application to check
-
 and download new versions of Emerald Market!
+
 
 
