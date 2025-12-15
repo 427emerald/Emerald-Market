@@ -1,4 +1,4 @@
-![](Base/kmc_20251214_105204.png)
+
 
 Welcome to Emerald Market!
 ---------------------------
@@ -24,3 +24,4 @@ a new update for Emerald Market, it will be sent out through Emerald Market's Up
 provided in the files when Emerald Market is first downloaded. Use the Updater application to check
 
 and download new versions of Emerald Market!
+
