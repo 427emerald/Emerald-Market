@@ -25,4 +25,34 @@ provided in the files when Emerald Market is first downloaded. Use the Updater a
 and download new versions of Emerald Market!
 
 
+**Error Codes: What they mean and possible solutions!**
+__________________________________________
+
+Inside of Emerald Market, you may encounter some errors depending on what happens. This is a list of all the possible Error codes so you can trouble shoot them here!
+
+**Error Code: 219**
+
+Error Message: *Emerald Market could not establish a connection to the server. Please try again or check your internet connection*
+
+What this means: Upon opening Emerald Market, it will normally try to check for any available updates before letting you shop. This error will usually show if there is a slow connection and it takes too long to check for an update within a certain amount of time, or if there is something preventing Emerald Market from checking for updates. The fix to this would be to use a better internet connection. If it’s something wrong with the servers, I’ll fix the issue myself.
+
+**Error Code: 557**
+
+Error Message: *This version of Emerald Market is out of date. In order to continue using this service, please update to the latest version.*
+
+What this means: This message will only show if Emerald Market is out of date and there’s an update available to download. If you receive this message after updating, then something is wrong with Emerald Market’s internal files and I would need to fix the issue myself.
+
+**Error Code: 676**
+
+Error Message: *An error occurred while trying to connect to the internet. Please check your internet settings and make sure everything is correct.*
+
+What this means: This message is self-explanatory. Emerald Market relies on internet to function, so if there is no internet connection, this error will show up.
+
+**Error Code: 772**
+
+Error Message: *The uninstall process failed. The software you are attempting to uninstall is either broken or missing. You can redownload the software from the software’s store page.*
+
+What this means: This error will show when a user attempts to uninstall software from Emerald Market, and Emerald Market can’t uninstall it either due to missing files or permissions preventing deletion. If the user manually deleted the game themselves from their PC files, this message will show and can safely be ignored.
+
+
 
